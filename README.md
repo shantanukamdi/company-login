@@ -1,2 +1,4 @@
-# company-login
-Simple login screen for a company
+# Company Login Screen
+Login Screen using Pure HTML and CSS
+
+![Output](https://github.com/shantanukamdi/company-login/blob/master/Capture.PNG)
